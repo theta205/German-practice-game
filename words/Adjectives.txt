@@ -74,7 +74,7 @@ doppelt – double, doubly; twice
 gerecht – just, fair(ly)
 modern – modern
 üblich – customary, customarily
-aktuell – current, up-to-date
+aktuell – current, up+to+date
 gesamt – whole; combined
 öffentlich – public(ly)
 weit – far

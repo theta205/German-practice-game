@@ -6,9 +6,6 @@
 #include <algorithm>
 #include <random>
 
-
-
-
 using namespace std;
 
 string answer(vector<string> &e, vector<string> &g, unordered_map<string,string> &dict);
@@ -16,10 +13,51 @@ string answer(vector<string> &e, vector<string> &g, unordered_map<string,string>
 int main() {
     string line, german, english, filename;
     bool dash;
-    char c;
+    char c, code;
     unordered_map<string,string> dict;
-    cout << "What is the file name: ";
-    cin >> filename;
+    cout << "Options: " << "\n";
+    cout << "Nouns (N), " << "\n";
+    cout << "Verbs (V), " << "\n";
+    cout << "Adjectives (A), " << "\n";
+    cout << "Adverbs (a), " << "\n";
+    cout << "Pronouns (P), " << "\n";
+    cout << "Conjunctions (C), " << "\n";
+    cout << "Prepositions (p), " << "\n";
+    cout << "Phrases (x), " << "\n";
+    cout << "What would you like to practice \n (type the code seen in parenthesises): ";
+    cin >> code;
+    switch (code)
+    {
+    case 'N':
+        filename = "./words/Nouns.txt";
+        break;
+    case 'V':
+        filename = "./words/Verbs.txt";
+        break;
+    case 'A':
+        filename = "./words/Adjectives.txt";
+        break;
+    case 'a':
+        filename = "./words/Adverbs.txt";
+        break;
+    case 'C':
+        filename = "./words/Conjunctions.txt";
+        break;
+    case 'p':
+        filename = "./words/Prepositions.txt";
+        break;
+    case 'P':
+        filename = "./words/Pronoun.txt";
+        break;
+    case 'x':
+        filename = "./words/Phrases.txt";
+        break;
+    default:
+        cout << endl;
+        cout << "Invalid choice. Please choose a valid option." << endl;
+        break;
+    }
+    cout << endl;
     ifstream inputFile(filename);
 
     if (!inputFile.is_open()) {
@@ -47,17 +85,24 @@ int main() {
         }
         dict[english] = german;
     }
-    string ans;
 
+    vector<string> keys;
+    for (const auto& entry : dict) {
+        keys.push_back(entry.first);
+    }
+
+    string ans;
     int count = 0;
     vector <string> e;
     vector <string> g;
     random_device rd;
     mt19937 ra(rd());
 
-    string correct;
 
-    for (auto pair : dict){
+    string correct;
+    pair<string, string> pair;
+    shuffle(keys.begin(), keys.end(), ra);
+    for (auto key : keys){
         if (count == 5){
             shuffle(e.begin(), e.end(), ra);
             shuffle(g.begin(), g.end(), ra);
@@ -81,10 +126,11 @@ int main() {
             cout << "Correct Answer is: " << correct << endl;
             count = 0;
         }
+        pair.first = key;
+        pair.second = dict[key];
         e.push_back(pair.first);
         g.push_back(pair.second);
         count++;
-        
     }
 }
 string answer(vector<string> &e, vector<string> &g, unordered_map<string,string> &dict){
