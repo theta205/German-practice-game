@@ -1,0 +1,430 @@
+der Seminarraum - classroom
+die Decke - ceiling
+die Lampe - lamp
+die Liebe - love
+die Ruhe - peace, quiet
+die Uhr - clock
+die Wand - wall
+der Boden - floor
+der Gegenstand - object, item
+der Hintergrund - background
+der Laptop - laptop (computer)
+der Stuhl - chair
+der Tisch - table
+der Vordergrund - foreground
+das Fenster - window
+das Heft - notebook
+das Papier - paper
+die Bedingung - condition
+die Bildung - education
+die Forschung - research
+die Natur - nature
+die Sicherheit - security
+die Umwelt - environment
+die Wissenschaft - science
+der Bart - beard
+der Job - job
+der Wert - value
+das Auge - eye
+das Haar - hair
+das System - system
+die Hand - hand
+die Nase - nose
+die Schulter - shoulder
+der Arm - arm
+der Bauch - belly, stomach
+der Fuß - foot
+der Kopf - head
+der Körper - body
+der Mund - mouth
+der Rücken - back
+das Bein - leg
+das Gesicht - face
+das Ohr - ear
+die Familie - family
+die Großmutter - grandmother
+die Kusine - female cousin
+die Mutter - mother
+die Schwester - sister
+die Tante - aunt
+die Tochter - daughter
+der Bruder - brother
+der Cousin - male cousin
+der Großvater - grandfather
+der Onkel - uncle
+der Sohn - son
+der Vater - father
+das Kind - child
+die Eltern - parents
+die Geschwister - siblings
+der Grad - degree
+der Herbst - fall, autumn
+der Monat - month
+der Sommer - summer
+der Winter - winter
+das Gebiet - area
+das Jahr - year
+die Hauptstadt - capital city
+die Schweiz - Switzerland
+die Türkei - Turkey
+die Universität - university
+die Uni - university (informal)
+der Amerikaner - American (person)
+die Amerikanerin - American (female)
+der Australier - Australian (person)
+die Australierin - Australian (female)
+der Deutsche - German (person)
+der Franzose - Frenchman
+die Französin - Frenchwoman
+der Kanadier - Canadian (person)
+die Kanadierin - Canadian (female)
+der Mexikaner - Mexican (person)
+die Mexikanerin - Mexican (female)
+der Norden - North
+der Osten - East
+der Österreicher - Austrian (person)
+die Österreicherin - Austrian (female)
+der Schweizer - Swiss (person)
+die Schweizerin - Swiss (female)
+der Süden - South
+der Westen - West
+die USA - USA (plural)
+die Karte - card
+die Kneipe - bar, tavern
+die Musik - music
+die Party - party
+die Perspektive - perspective
+die Sonne - sun
+die Stunde - hour
+die Wohnung - apartment
+die Zeit - time
+die Zeitung - newspaper
+der Berg - mountain
+der Brief - letter
+der Kaffee - coffee
+der Zufall - coincidence
+das Alter - age
+das Angebot - offer, offering
+das Beispiel - example
+das Foto - photo
+das Hobby - hobby
+das Kino - movie theater, cinema
+das Konzert - concert
+das Meer - sea
+das Museum - museum
+das Tier - animal
+das Wochenende - weekend
+das Zimmer - room
+die Ferien - vacation
+die Medien - media
+die Arbeit - work
+die Chemie - chemistry
+die Fremdsprache - foreign language
+die Geschichte - history; story
+die Informatik - computer science
+die Literatur - literature
+die Mathematik - mathematics
+die Minute - minute
+die Pause - break, intermission
+die Physik - physics
+die Religion - religion
+die Schule - school
+die Schülerin - female pupil
+die Sekunde - second
+die Wirtschaft - economics
+die Woche - week
+der Schüler - male pupil
+der Sport - sport, physical education
+der Montag - Monday
+der Dienstag - Tuesday
+der Mittwoch - Wednesday
+der Donnerstag - Thursday
+der Freitag - Friday
+der Samstag - Saturday
+der Sonntag - Sunday
+das Bett - bed
+das Fach - academic subject
+das Haus - house
+das Kapitel - chapter
+die Aussage - statement
+die Lösung - solution
+die Prüfung - test
+die Tasche - bag, purse, pocket
+der Moment - moment
+der Park - park
+der Spaß - fun; joke
+das Studium - university studies
+das Theater - theater
+die Adresse - address
+die Angabe - information, indication
+die Beziehung - relationship
+die Grammatik - grammar, grammar book
+die Größe - height
+die Kundin - female customer, client
+die Lehrerin - female teacher
+die Nummer - number
+die Person - person
+die Politik - politics
+der Beruf - profession
+der Geburtstag - birthday
+der Kunde - male customer
+der Lehrer - male teacher
+der Zug - train
+das Ende - end
+das Gespräch - conversation
+das Rathaus - town hall
+das Telefon - telephone
+die Hoffnung - hope
+die Katze - cat
+die Rechnung - bill; calculation
+die Reise - trip, journey
+die Sache - thing
+die Trauer - sorrow
+der Computer - computer
+der Euro - euro
+der Fernseher - TV set
+der Film - film
+der Hund - dog
+der Rucksack - backpack
+der Schlafsack - sleeping bag
+der Schrank - wardrobe cabinet, cupboard
+der Schreibtisch - desk
+der Sessel - armchair
+der Spieler - player
+der Teppich - carpet
+das Boot - boat
+das Fahrrad - bicycle
+das Geld - money
+das Geschäft - store
+das Klavier - piano
+das Pferd - horse
+das Problem - problem
+das Radio - radio
+das Regal - bookshelf, bookcase
+das Smartphone - smartphone
+das Zelt - tent
+die Einladung - invitation
+die Freude - joy, pleasure
+die Höhe - height; amount
+die Kamera - camera
+die Nachfrage - inquiry; demand
+die Platte - vinyl (record); disk, board
+die Tasse - cup
+der Bildschirm - screen, display
+der Gast - guest
+der Kontakt - contact
+der Rahmen - frame
+das Bier - beer
+das Brett - board
+das Geschenk - gift
+das Instrument - instrument
+das Restaurant - restaurant
+das Wort - word
+die Kette - chain, necklace
+die Reihenfolge - order, sequence
+der Ring - ring
+das Lied - song
+die Gefahr - danger
+der Bus - bus
+der Einfluss - influence
+der Grund - reason, cause
+der Kilometer - kilometer
+der Roman - novel
+der Unterschied - difference
+der Wald - forest, woods
+das Ding - thing
+das Eis - ice, ice cream
+das Frühstück - breakfast
+das Handy - cell phone
+das Hotel - hotel
+das Spiel - game
+die Verwandten - relatives
+die Antwort - answer, response
+die Ausstellung - exhibition
+die/der Erwachsene - adult
+die Idee - idea
+die Linie - line
+die Welt - world
+die Zukunft - future
+der Begriff - term, concept
+der Besuch - visit
+der Plan - plan
+der Satz - sentence
+der Teil - part
+der Witz - joke
+der Zusammenhang - connection, context
+das Gedicht - poem
+das Herz - heart
+die Leute - people
+die/der Jugendliche - teenager, youth
+die Kerze - candle
+die Ordnung - order, orderliness
+die Pflanze - plant
+die Pflicht - duty, requirement
+der Konzern - corporation, enterprise
+der Mittag - noon
+das Gesetz - law
+das Glück - luck; happiness
+die Ärztin - female physician
+die Firma - company
+die/der Geliebte - beloved female/male friend, lover
+die Sprache - language
+der Arzt - male physician
+der Koffer - suitcase
+der Platz - place, seat
+das Gefühl - feeling
+das Krankenhaus - hospital
+die Angst - fear
+die Lust - desire
+die Nacht - night
+der Gott - god, God
+der Hunger - hunger
+das Licht - light
+das Wasser - water
+die Aufgabe - assignment, task, chore
+die Bibliothek - library
+die Freiheit - freedom, liberty
+die Rede - speech
+die Regel - rule
+die Sehnsucht - longing, desire
+die Umfrage - survey
+der Bahnhof - train station
+der Krieg - war
+das Abitur - high school graduation exam
+das Fest - celebration, party
+das Leid - suffering, sorrow
+das Opfer - victim; sacrifice
+das Prozent - percentage, percent
+das Tagebuch - diary
+das Wunder - wonder
+die Burg - castle, fortress
+die Haut - skin
+die Heldin - female hero
+der Held - male hero
+der Sand - sand
+der Schatten - shadow, shade
+der Strand - beach
+der Urlaub - vacation
+der Vortrag - talk, presentation, lecture
+das Interview - interview
+das Seminar - seminar, class
+die Erinnerung - memory, remembrance
+die Information - information
+die Vorlesung - lecture
+der Feiertag - holiday
+der Flüchtling - refugee
+der Tee - tea
+der Unfall - accident
+das Datum - date; data
+das Mitglied - member (of an organization)
+das Recht - right, law
+das Sprachenlabor - language laboratory
+das Weihnachten - Christmas
+das Zentrum - center
+die Einheit - unity, unit
+die Entscheidung - decision
+die Kultur - culture
+die Nachbarin - female neighbor
+die Rolle - role, part
+die Vorstellung - idea; imagination
+der Alltag - daily routine, everyday life
+der Druck - pressure
+der Keller - basement, cellar
+der Nachbar - male neighbor
+der Nachmittag - afternoon
+der Preis - prize; price
+der Vormittag - late morning
+das Programm - program
+das Thema - theme, topic
+die Botschaft - message
+die Flucht - flight, escape
+die Käuferin - female buyer, customer
+die Reihe - series, range, row
+die Silbe - syllable
+die Sprecherin - female speaker
+die Tätigkeit - activity
+die Wählerin - female voter
+der Anfang - beginning
+der Ausdruck - expression
+der Haushalt - household, housekeeping
+der Käufer - male buyer, customer
+der Knochen - bone
+der Müll - trash, garbage
+der Staub - dust
+der Teller - plate
+der Wähler - voter
+das Ereignis - event
+die Bewegung - movement, motion
+die Bucht - bay
+die Insel - island
+die Küste - coast
+die Landschaft - landscape, scenery
+die Stille - silence, quiet
+die Wiese - meadow, pasture
+die Wüste - desert
+der Ansatz - approach, point of departure
+der Fluss - river
+der Geruch - scent, smell
+der Hügel - hill
+der Markt - market
+der Nebel - fog, mist
+der See - lake
+der Vorschlag - suggestion
+das Element - element
+das Feld - field
+das Gebirge - (range of) mountains
+das Geräusch - sound, (soft) noise
+das Tal - valley
+das Risiko - risk
+die Abfahrt - departure
+die Ankunft - arrival
+die Bahn - railroad
+die Straßenbahn - streetcar
+die U=Bahn - subway
+die Erde - earth, dirt, ground
+die Fahrt - trip
+die Luft - air
+der Nachteil - disadvantage
+der Traum - dream
+der Vorteil - advantage
+der Wagen - car
+der Lastwagen - truck
+der Weg - way, path
+das Benzin - gasoline
+das Fahrzeug - vehicle
+das Flugzeug - airplane
+das Institut - institute
+das Motorrad - motorcycle
+das Schild - sign
+das Tor - gate
+die Achtung - attention
+die Anzeige - ad
+die Batterie - battery
+die Kategorie - category
+die Marke - brand, make, model
+die Masse - mass, masses, matter, material
+die Methode - method
+die Produktion - production
+die Richtung - direction, way
+die Welle - wave
+der Fisch - fish
+der Ozean - ocean
+der Regen - rain
+der Sitz - seat
+der Sturm - storm
+das Abenteuer - adventure
+das Elektroauto - electric car
+das Insekt - insect
+das Rad - wheel, bicycle
+die Kosten - cost, costs
+die Nachrichten - news
+die Fläche - area, surface
+die Wanderung - hike
+der Handel - trade, commerce, deal
+der Höhepunkt - highlight
+der Ort - place, location, town
+der Pass - passport
+der Wein - wine
+das Erlebnis - experience
+das Kreuz - cross
+das Ticket - ticket
